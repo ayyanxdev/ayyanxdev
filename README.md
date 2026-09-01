@@ -200,15 +200,15 @@ Currently a local project — happy to walk through the code or share it on requ
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION SNAKE                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🐍 Contribution Snake</h2>
+-<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-snake.svg">
   </picture>
 </p>
-<p align="center"><i>🛠️ Snake animation requires the GitHub Action setup (see instructions below)</i></p>
 <!--
 SETUP INSTRUCTIONS FOR THE SNAKE ANIMATION:
 To make the snake animation appear, add this GitHub Action to your profile repo:
