@@ -1,31 +1,250 @@
 <h1 align="center">Hi 👋, I'm Syed Ayyan Haider</h1>
-<h3 align="center">Full-Stack Developer | AI Automation Engineer</h3>
 
-- 🔭 I’m currently working on [Chatbot 24/7](https://github.com/ayyanxdev/clinic-ai-receptionist-pro)
+<h3 align="center">
+Full-Stack Developer · AI Automation Engineer · Python Developer
+</h3>
 
-- 🌱 I’m currently learning **AI Engineering , Advanced Python , FastAPI , React**
-
-- 👯 I’m looking to collaborate on [Whatsapp Chatbot](https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro)
-
-- 🤝 I’m looking for help with [Whatsapp Chatbot](https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro)
-
-- 💬 Ask me about **AI Automation , Python , Full-Stack Development , n8n , RAG**
-
-- 📫 How to reach me **ayyankazmi622@gmail.com**
-
-- ⚡ Fun fact **I think i am Determined**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syed-ayyan-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ayyan-haider" height="30" width="40" /></a>
-<a href="https://instagram.com/ayankazmi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayankazmi__" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ayyanxdev">
+    <img src="https://img.shields.io/github/followers/ayyanxdev?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ayyanxdev">
+    <img src="https://komarev.com/ghpvc/?username=ayyanxdev&style=for-the-badge&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://www.fiverr.com/s/emRjyDg">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build AI-powered applications, automation systems, APIs, chatbots, and full-stack solutions.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyanxdev&show_icons=true&locale=en&layout=compact" alt="ayyanxdev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyanxdev&show_icons=true&locale=en" alt="ayyanxdev" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyanxdev&" alt="ayyanxdev" /></p>
+* 🔭 Currently building **AI-powered automation and full-stack applications**
+* 🤖 Focused on **AI Automation, AI Agents, Chatbots & Business Automation**
+* 🐍 Working primarily with **Python, FastAPI and modern web technologies**
+* 🌱 Currently learning **AI Engineering, Advanced Python, FastAPI & React**
+* ⚙️ Experienced with **n8n, APIs, automation workflows and LLM integrations**
+* 💡 Interested in building practical software that solves real business problems
+* 💼 Available for **freelance development and automation projects**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,javascript,html,css,docker,git,github,nodejs,mongodb,postgresql&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postman,streamlit,redis,linux&perline=5" />
+</p>
+
+### AI & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-AI%20Applications-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-LLM%20Integration-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-AI%20Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-Automation-success?style=for-the-badge" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🤖 AI Clinic Receptionist Pro
+
+AI-powered receptionist system designed to automate patient conversations and appointment workflows.
+
+**Highlights**
+
+* AI-powered conversations
+* Appointment booking workflow
+* Conversation memory
+* FastAPI backend
+* LLM integration
+* Automated business workflows
+
+🔗 **Repository:**
+[![Clinic AI Receptionist](https://img.shields.io/badge/View%20Project-Clinic%20AI%20Receptionist-blue?style=for-the-badge\&logo=github)](https://github.com/ayyanxdev/clinic-ai-receptionist-pro)
+
+---
+
+### 📱 AI WhatsApp Business Assistant Pro
+
+AI-powered WhatsApp assistant designed to help businesses automate customer conversations and workflows.
+
+**Highlights**
+
+* WhatsApp automation
+* AI-powered responses
+* Business workflow automation
+* FastAPI backend
+* Database persistence
+* Dashboard integration
+
+🔗 **Repository:**
+[![WhatsApp AI Assistant](https://img.shields.io/badge/View%20Project-AI%20WhatsApp%20Assistant-blue?style=for-the-badge\&logo=github)](https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro)
+
+---
+
+## 💼 What I Build
+
+```text
+AI AUTOMATION
+├── AI Chatbots
+├── AI Receptionists
+├── AI Voice Agents
+├── WhatsApp Automation
+├── Business Process Automation
+└── LLM-powered Applications
+
+FULL-STACK DEVELOPMENT
+├── REST APIs
+├── FastAPI Applications
+├── React Interfaces
+├── Database-driven Applications
+├── Admin Dashboards
+└── Business Web Applications
+
+DATA & AUTOMATION
+├── Web Scrapers
+├── Excel / CSV Automation
+├── API Integrations
+├── n8n Workflows
+└── Data Processing Systems
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayyanxdev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanxdev&layout=compact&hide_border=true&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanxdev&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ayyanxdev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayyanxdev&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="100%"
+  />
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayyanxdev&theme=tokyonight"
+    height="180"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayyanxdev&theme=tokyonight"
+    height="180"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayyanxdev&theme=tokyonight"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayyanxdev&theme=tokyonight&utcOffset=5"
+    height="180"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+# 💻 Current Focus
+
+```text
+AI Engineering
+      ↓
+LLM Applications
+      ↓
+AI Agents & Automation
+      ↓
+FastAPI Backend Systems
+      ↓
+Full-Stack Applications
+      ↓
+Real-World Business Solutions
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/syed-ayyan-haider">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.fiverr.com/s/emRjyDg">
+<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
+
+<a href="mailto:ayyankazmi622@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>🚀 Building useful software with AI, automation and code.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
