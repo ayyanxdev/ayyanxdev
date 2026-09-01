@@ -1,34 +1,59 @@
-<h1 align="center">Hi, I'm Syed Ayyan Haider 👋</h1>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                         ANIMATED HEADER                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:1a1b27&height=220&section=header&text=Syed%20Ayyan%20Haider&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Automation%20Engineer&descAlignY=55&descSize=16" width="100%" alt="animated header"/&gt;
 
-<p align="center">
-  <strong>BSCS Student · Full-Stack Developer · AI Automation Engineer</strong>
-</p>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                     ANIMATED TYPING INTRO                       --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Syed+Ayyan+Haider+%F0%9F%91%8B;Full-Stack+Developer+%E2%9A%A1;AI+Automation+Engineer+%F0%9F%A4%96;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+LLMs+%F0%9F%90%8D" alt="animated typing intro"/&gt;
+&lt;/p&gt;
 
-<p align="center">
-  I build AI-powered automation systems and full-stack web apps that turn manual business workflows into working software.
-</p>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                     LIVE STATUS BADGES                        --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/ayyanxdev"&gt;
+    &lt;img src="https://komarev.com/ghpvc/?username=ayyanxdev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile Views"/&gt;
+  &lt;/a&gt;
+  &lt;img src="https://img.shields.io/github/followers/ayyanxdev?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&label=FOLLOWERS" alt="GitHub Followers"/&gt;
+  &lt;a href="https://www.fiverr.com/s/emRjyDg"&gt;
+    &lt;img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-1DBF73?style=for-the-badge&labelColor=1a1b27" alt="Available for Work"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.fiverr.com/s/emRjyDg"&gt;
+    &lt;img src="https://img.shields.io/badge/Hire%20Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <a href="https://github.com/ayyanxdev">
-    <img src="https://komarev.com/ghpvc/?username=ayyanxdev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <a href="https://www.fiverr.com/s/emRjyDg">
-    <img src="https://img.shields.io/badge/Hire%20Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr" />
-  </a>
-</p>
+&lt;br&gt;
 
-<br>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
 
-## 🧑‍💻 About Me
+&lt;br&gt;
 
-I'm a BSCS student building toward a career as a **full-stack developer and AI automation engineer**.
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                         🧑‍💻 ABOUT ME                          --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;🧑‍💻 About Me&lt;/h2&gt;
 
-Most of my time goes into turning repetitive business tasks — answering the same customer questions, booking appointments, chasing payment status, pulling product data by hand — into systems that run themselves. That usually means a Python/FastAPI backend, a real database, and an LLM doing the reasoning in between.
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=550&lines=Turning+manual+workflows+into+automated+systems+%E2%9A%99%EF%B8%8F;Shipping+AI-powered+products+for+real+businesses+%F0%9F%9A%80;Learning+every+day+%C2%B7+Building+every+day+%C2%B7+Improving+every+day+%F0%9F%93%88" alt="about me typing"/&gt;
+&lt;/p&gt;
 
-Right now I'm focused on:
+&lt;br&gt;
+
+I'm a **BSCS student** building toward a career as a full-stack developer and AI automation engineer.
+
+Most of my time goes into turning repetitive business tasks — answering the same customer questions, booking appointments, chasing payment status, pulling product data by hand — into systems that run themselves. That usually means a **Python/FastAPI** backend, a real database, and an **LLM** doing the reasoning in between.
+
+**What I'm focused on right now:**
 
 - 🐍 Python & backend engineering
-- ⚡ FastAPI, REST APIs, and SQL-backed applications
+- ⚡ FastAPI, REST APIs, and SQL-backed applications  
 - ⚛️ React for full-stack projects
 - 🧠 LLM integrations, RAG, and AI agents
 - ⚙️ n8n and workflow/API automation
@@ -36,20 +61,60 @@ Right now I'm focused on:
 
 **What I'm working toward:** shipping full-stack, AI-powered products that are reliable enough to hand to a real business — not just demos.
 
-<br>
+&lt;br&gt;
 
-## 🚀 What I Build
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
 
-| AI & Automation | Full-Stack & Data |
-|---|---|
-| AI chatbots & receptionists | FastAPI backends & REST APIs |
-| LLM-powered conversation flows | React front ends |
-| Business workflow automation | SQL database design |
-| n8n / webhook integrations | Web scraping & data pipelines |
+&lt;br&gt;
 
-<br>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                        🚀 WHAT I BUILD                        --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;🚀 What I Build&lt;/h2&gt;
 
-## ⭐ Featured Projects
+&lt;br&gt;
+
+&lt;table align="center"&gt;
+  &lt;tr&gt;
+    &lt;th align="center"&gt;🤖 AI & Automation&lt;/th&gt;
+    &lt;th align="center"&gt;🌐 Full-Stack & Data&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;AI chatbots & receptionists&lt;/td&gt;
+    &lt;td align="center"&gt;FastAPI backends & REST APIs&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;LLM-powered conversation flows&lt;/td&gt;
+    &lt;td align="center"&gt;React front ends&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;Business workflow automation&lt;/td&gt;
+    &lt;td align="center"&gt;SQL database design&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;n8n / webhook integrations&lt;/td&gt;
+    &lt;td align="center"&gt;Web scraping & data pipelines&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    ⭐ FEATURED PROJECTS                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;⭐ Featured Projects&lt;/h2&gt;
+
+&lt;br&gt;
 
 ### 🏥 Clinic AI Receptionist Pro
 
@@ -64,11 +129,11 @@ A 24/7 AI receptionist and appointment-booking system built for medical, dental,
 
 **Tech:** `Python` `FastAPI` `SQLAlchemy` `Pydantic v2` `Groq LLM` `SQLite`
 
-<p>
-<a href="https://github.com/ayyanxdev/clinic-ai-receptionist-pro">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Clinic AI Receptionist Pro repository"/>
-</a>
-</p>
+&lt;p&gt;
+  &lt;a href="https://github.com/ayyanxdev/clinic-ai-receptionist-pro"&gt;
+    &lt;img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Clinic AI Receptionist Pro repository"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
@@ -85,14 +150,14 @@ A business automation backend built for small businesses that get most of their 
 
 **Tech:** `Python` `FastAPI` `SQLAlchemy` `SQLite` `Groq LLM` `pytest`
 
-<p>
-<a href="https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI WhatsApp Business Assistant Pro repository"/>
-</a>
-<a href="https://ai-whatsapp-business-assistant-pro.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
-</a>
-</p>
+&lt;p&gt;
+  &lt;a href="https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro"&gt;
+    &lt;img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI WhatsApp Business Assistant Pro repository"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://ai-whatsapp-business-assistant-pro.vercel.app"&gt;
+    &lt;img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
@@ -107,93 +172,222 @@ A scraping tool that takes a product page or category URL and returns clean, str
 
 *Currently a local project — happy to walk through the code or share it on request.*
 
-<br>
+&lt;br&gt;
 
-## 🧠 Current Learning Path
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
 
-```text
-Python
- ├── Backend Engineering — FastAPI, REST APIs, SQLAlchemy
- ├── AI Engineering — LLM apps, RAG, AI agents
- ├── Automation — n8n, webhooks, API integrations
- └── Full-Stack Development — React, AI-powered apps
-```
+&lt;br&gt;
 
-<br>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                       🛠️ TECH STACK                           --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;🛠️ Tech Stack&lt;/h2&gt;
 
-## 🛠️ Tech Stack
+&lt;br&gt;
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Languages"/>
+&lt;p align="center"&gt;
+  &lt;b&gt;Languages&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+  &lt;img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Languages"/&gt;
+&lt;/p&gt;
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react" alt="Frontend"/>
+&lt;br&gt;
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi" alt="Backend"/>
+&lt;p align="center"&gt;
+  &lt;b&gt;Frontend&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+  &lt;img src="https://skillicons.dev/icons?i=react" alt="Frontend"/&gt;
+&lt;/p&gt;
 
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb" alt="Databases"/>
+&lt;br&gt;
 
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" alt="Tools"/>
+&lt;p align="center"&gt;
+  &lt;b&gt;Backend&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+  &lt;img src="https://skillicons.dev/icons?i=fastapi" alt="Backend"/&gt;
+&lt;/p&gt;
 
-**AI & Automation**
-<br>
-<img src="https://img.shields.io/badge/LLM%20Applications-6E40C9?style=for-the-badge" alt="LLM Applications"/>
-<img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Groq-LLM-F97316?style=for-the-badge" alt="Groq"/>
+&lt;br&gt;
 
-<br>
+&lt;p align="center"&gt;
+  &lt;b&gt;Databases&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+  &lt;img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb" alt="Databases"/&gt;
+&lt;/p&gt;
 
-## 📊 GitHub Analytics
+&lt;br&gt;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayyanxdev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Ayyan's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanxdev&layout=compact&hide_border=true&theme=tokyonight" alt="Ayyan's most used languages" height="165"/>
-</p>
+&lt;p align="center"&gt;
+  &lt;b&gt;Tools&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+  &lt;img src="https://skillicons.dev/icons?i=git,github,docker,postman" alt="Tools"/&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayyanxdev&theme=tokyonight&hide_border=true" alt="Ayyan's GitHub streak"/>
-</p>
+&lt;br&gt;
 
-<br>
+&lt;p align="center"&gt;
+  &lt;b&gt;AI & Automation&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+  &lt;img src="https://img.shields.io/badge/LLM%20Applications-6E40C9?style=for-the-badge" alt="LLM Applications"/&gt;
+  &lt;img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge" alt="RAG"/&gt;
+  &lt;img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" alt="AI Agents"/&gt;
+  &lt;img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/&gt;
+  &lt;img src="https://img.shields.io/badge/Groq%20LLM-F97316?style=for-the-badge" alt="Groq LLM"/&gt;
+&lt;/p&gt;
 
-## 💼 Available for Freelance Work
+&lt;br&gt;
 
-I take on projects in:
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
 
-**AI automation** · **AI chatbots** · **WhatsApp automation** · **Web scraping** · **Python/FastAPI development** · **Full-stack web apps**
+&lt;br&gt;
 
-<p align="center">
-  <a href="https://www.fiverr.com/s/emRjyDg">
-    <img src="https://img.shields.io/badge/🟢%20Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge" alt="Hire me on Fiverr"/>
-  </a>
-</p>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    📊 GITHUB ANALYTICS                        --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;📊 GitHub Analytics&lt;/h2&gt;
 
-<br>
+&lt;br&gt;
 
-## 🌐 Let's Connect
+&lt;!-- Stats & Languages --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=ayyanxdev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180"/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanxdev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="180"/&gt;
+&lt;/p&gt;
 
-<p align="center">
-  <a href="https://linkedin.com/in/syed-ayyan-haider">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayyankazmi622@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.fiverr.com/s/emRjyDg">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-</p>
+&lt;br&gt;
 
-<p align="center">
-  <i>Learn → Build → Automate → Improve</i>
-</p>
+&lt;!-- Streak Stats --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://streak-stats.demolab.com?user=ayyanxdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;!-- Activity Graph --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanxdev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;!-- Profile Trophies --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=ayyanxdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    🐍 CONTRIBUTION SNAKE                      --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;🐍 Contribution Snake&lt;/h2&gt;
+
+&lt;p align="center"&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake-dark.svg"&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake.svg"&gt;
+    &lt;img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake.svg"&gt;
+  &lt;/picture&gt;
+&lt;/p&gt;
+
+&lt;!-- 
+🛠️ SETUP INSTRUCTIONS FOR THE SNAKE ANIMATION:
+To make the snake animation appear, add this GitHub Action to your profile repo:
+
+File: .github/workflows/snake.yml
+─────────────────────────────────
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ayyanxdev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+─────────────────────────────────
+The action will generate the SVGs on the `output` branch automatically.
+--&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    💼 AVAILABLE FOR WORK                      --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;💼 Available for Freelance Work&lt;/h2&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=1DBF73&center=true&vCenter=true&width=500&lines=AI+Automation+%E2%9C%85;AI+Chatbots+%E2%9C%85;WhatsApp+Automation+%E2%9C%85;Web+Scraping+%E2%9C%85;Python+%2F+FastAPI+Development+%E2%9C%85;Full-Stack+Web+Apps+%E2%9C%85" alt="freelance services typing"/&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;p align="center"&gt;
+  &lt;a href="https://www.fiverr.com/s/emRjyDg"&gt;
+    &lt;img src="https://img.shields.io/badge/🚀%20Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1a1b27" alt="Hire me on Fiverr"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    TWINKLING SECTION DIVIDER                    --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,100:1a1b27&height=35&section=footer&animation=twinkling" width="100%" alt="twinkling divider"/&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                      🌐 LET'S CONNECT                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;h2 align="center"&gt;🌐 Let's Connect&lt;/h2&gt;
+
+&lt;br&gt;
+
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/syed-ayyan-haider"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:ayyankazmi622@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.fiverr.com/s/emRjyDg"&gt;
+    &lt;img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                       ANIMATED FOOTER                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6E40C9&height=120&section=footer" width="100%" alt="animated footer wave"/&gt;
+
+&lt;br&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=6000&pause=2000&color=6E40C9&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%94%81" alt="closing tagline"/&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;i&gt;Built with curiosity, caffeine, and a lot of Python.&lt;/i&gt; 🐍
+&lt;/p&gt;
