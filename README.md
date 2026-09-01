@@ -184,25 +184,17 @@ Currently a local project — happy to walk through the code or share it on requ
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Stats & Languages -->
+<!-- Reliable Stats Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayyanxdev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanxdev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://img.shields.io/github/repos/ayyanxdev?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&label=REPOSITORIES" alt="Repositories"/>
+  <img src="https://img.shields.io/github/stars/ayyanxdev?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&label=STARS" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/ayyanxdev?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/commit-activity/m/ayyanxdev?style=for-the-badge&color=6E40C9&labelColor=1a1b27&logo=github&label=COMMITS%2FMONTH" alt="Commits per month"/>
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayyanxdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanxdev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph"/>
-</p>
-
-<!-- Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayyanxdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -216,6 +208,7 @@ Currently a local project — happy to walk through the code or share it on requ
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayyanxdev/ayyanxdev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+<p align="center"><i>🛠️ Snake animation requires the GitHub Action setup (see instructions below)</i></p>
 <!--
 SETUP INSTRUCTIONS FOR THE SNAKE ANIMATION:
 To make the snake animation appear, add this GitHub Action to your profile repo:
