@@ -1,195 +1,155 @@
-<h1 align="center">Hi 👋, I'm Syed Ayyan Haider</h1>
+<h1 align="center">👋 Hi, I'm Syed Ayyan Haider</h1>
 
 <p align="center">
   <strong>BSCS Student • Full-Stack Developer • AI Automation Engineer</strong>
 </p>
 
 <p align="center">
-  Building practical AI-powered applications, automation systems, APIs, and full-stack products that solve real-world problems.
+  I build AI-powered applications, automation systems, APIs, and full-stack solutions for real-world problems.
 </p>
 
 <p align="center">
   <a href="https://github.com/ayyanxdev">
-    <img src="https://komarev.com/ghpvc/?username=ayyanxdev&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ayyanxdev&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://github.com/ayyanxdev?tab=followers">
-    <img src="https://img.shields.io/github/followers/ayyanxdev?style=for-the-badge&label=FOLLOWERS&logo=github" alt="GitHub Followers"/>
+  <a href="https://github.com/ayyanxdev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-black?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   <a href="https://www.fiverr.com/s/emRjyDg">
-    <img src="https://img.shields.io/badge/HIRE%20ME-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me on Fiverr"/>
+    <img src="https://img.shields.io/badge/Hire%20Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **BSCS student** focused on turning my programming skills into real-world products.
+I'm a **BSCS student** focused on becoming a strong **Full-Stack Developer and AI Automation Engineer**.
 
-My current focus is **Full-Stack Development + AI Automation**, with an emphasis on building software that can automate repetitive business tasks, improve customer interactions, and make workflows more efficient.
+I enjoy turning ideas into working software — from backend APIs and dashboards to AI-powered assistants and automated business workflows.
 
-### What I'm working toward
+I'm currently focused on:
 
-* 🤖 Building **AI-powered applications and automation systems**
-* 🐍 Strengthening my **Python & backend engineering** skills
-* ⚡ Building APIs and backend systems with **FastAPI**
-* 🌐 Developing modern web applications with **React**
-* 🔗 Connecting services through **APIs, webhooks & automation workflows**
-* 🧠 Exploring **LLMs, RAG, AI agents and intelligent automation**
-* 📈 Building projects that are useful for **real businesses and clients**
+* 🤖 AI applications and automation
+* 🐍 Python & backend engineering
+* ⚡ FastAPI & REST APIs
+* ⚛️ React & modern frontend development
+* 🔗 API integrations and webhooks
+* 🧠 LLMs, RAG and AI agents
+* ⚙️ n8n and workflow automation
+* 📊 Data extraction and web scraping
+
+> **My goal:** build useful software that saves time, automates repetitive work, and solves real business problems.
 
 ---
 
 # 🚀 What I Build
 
-<table>
-<tr>
-<td width="50%">
+| 🤖 AI & Automation  | 💻 Full-Stack Development |
+| ------------------- | ------------------------- |
+| AI Chatbots         | REST APIs                 |
+| AI Receptionists    | FastAPI Applications      |
+| AI Voice Agents     | React Applications        |
+| WhatsApp Automation | Admin Dashboards          |
+| AI Agents           | Database Systems          |
+| LLM Applications    | API Integrations          |
+| Business Automation | Business Web Apps         |
 
-### 🤖 AI Automation
-
-* AI Chatbots
-* AI Receptionists
-* AI Voice Agents
-* WhatsApp Automation
-* Business Process Automation
-* LLM-powered Applications
-* AI Workflows
-
-</td>
-
-<td width="50%">
-
-### 💻 Full-Stack Development
-
-* REST APIs
-* FastAPI Applications
-* React Applications
-* Admin Dashboards
-* Database-driven Systems
-* API Integrations
-* Business Web Applications
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data & Automation
-
-* Web Scrapers
-* Excel / CSV Automation
-* Data Processing
-* Workflow Automation
-* API-based Data Extraction
-
-</td>
-
-<td width="50%">
-
-### 🧩 Backend Engineering
-
-* Python
-* FastAPI
-* SQL
-* Authentication
-* Webhooks
-* Database Integration
-* Third-party APIs
-
-</td>
-</tr>
-</table>
+| 📊 Data & Scraping      | ⚙️ Automation            |
+| ----------------------- | ------------------------ |
+| Web Scraping            | n8n Workflows            |
+| Product Data Extraction | API Automation           |
+| Excel / CSV Automation  | Webhooks                 |
+| Data Processing         | Third-Party Integrations |
 
 ---
 
 # ⭐ Featured Projects
 
-<p align="center">
-  <em>A few projects I'm building while developing my full-stack and AI engineering skills.</em>
-</p>
+## 🏥 Clinic AI Receptionist Pro
 
-### 🏥 Clinic AI Receptionist Pro
+An AI-powered receptionist system designed to automate customer communication and appointment workflows.
 
-An AI-powered receptionist application designed to automate patient communication and appointment workflows.
+**Tech:** `Python` `FastAPI` `LLM` `Google Sheets API`
 
-**Built with:**
-`Python` `FastAPI` `LLM` `Google Sheets API` `REST APIs`
+### What it does
 
-**Key Features**
-
-* 🤖 AI-powered receptionist conversations
+* 🤖 AI-powered conversations
 * 📅 Appointment workflow automation
 * 🧠 Conversation memory
-* 🔌 API-based architecture
+* 🔌 API-driven backend
 * ⚙️ Automated business workflows
 
 <p>
-  <a href="https://github.com/ayyanxdev/clinic-ai-receptionist-pro">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View Clinic AI Receptionist"/>
-  </a>
+<a href="https://github.com/ayyanxdev/clinic-ai-receptionist-pro">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Clinic AI Receptionist Repository"/>
+</a>
 </p>
 
 ---
 
-### 📱 AI WhatsApp Business Assistant Pro
+## 📱 AI WhatsApp Business Assistant Pro
 
-An AI-powered WhatsApp business assistant focused on automating customer conversations and business workflows.
+An AI-powered WhatsApp assistant designed to automate customer conversations and business workflows.
 
-**Built with:**
-`Python` `FastAPI` `Groq` `SQLite` `SQLAlchemy` `Streamlit` `WhatsApp Cloud API`
+**Tech:** `Python` `FastAPI` `Groq` `SQLite` `SQLAlchemy` `Streamlit` `WhatsApp Cloud API`
 
-**Key Features**
+### What it does
 
 * 💬 AI-powered customer conversations
 * 📲 WhatsApp Cloud API integration
 * ⚙️ Business workflow automation
 * 🗄️ Database persistence
-* 📊 Management dashboard
+* 📊 Dashboard integration
 * 🔗 Webhook-based architecture
 
 <p>
-  <a href="https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View AI WhatsApp Business Assistant"/>
-  </a>
+<a href="https://github.com/ayyanxdev/ai-whatsapp-business-assistant-pro">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View AI WhatsApp Business Assistant Repository"/>
+</a>
 </p>
 
 ---
 
-### 🕷️ Python Product Web Scraper
+## 🕷️ Python Product Web Scraper
 
-A Python-based web scraping system that extracts product information from websites and produces structured business-ready data.
+A Python web scraping system that extracts product information and transforms it into clean, structured data.
 
-**Capabilities**
+### Capabilities
 
-* 🌐 Website URL → structured data
-* 🛒 Product name & pricing extraction
-* 🖼️ Image & product link extraction
-* 📉 Discount detection
-* 📊 Excel / CSV / JSON output
-* ⚡ Support for static and JavaScript-heavy websites
-
-**Use case:** turning messy website data into clean, usable datasets.
+* 🌐 Website URL → structured product data
+* 💰 Product names & prices
+* 🏷️ Discounts
+* 🖼️ Product images
+* 🔗 Product links
+* 📄 Excel / CSV / JSON output
+* ⚡ Static & JavaScript-heavy websites
 
 ---
 
-# 🧠 Current Learning
+# 🧠 Current Learning Journey
 
 ```text
 Python
-   ↓
-Advanced Python & Backend Engineering
-   ↓
-FastAPI & REST APIs
-   ↓
-LLMs & AI Applications
-   ↓
-RAG & AI Agents
-   ↓
-AI Automation & Business Workflows
-   ↓
-Full-Stack AI Products
+   │
+   ├── Advanced Python
+   │
+   ├── Backend Engineering
+   │      └── FastAPI / REST APIs
+   │
+   ├── AI Engineering
+   │      ├── LLM Applications
+   │      ├── RAG
+   │      └── AI Agents
+   │
+   ├── Automation
+   │      ├── n8n
+   │      ├── Webhooks
+   │      └── API Integrations
+   │
+   └── Full-Stack Development
+          ├── React
+          └── AI-powered Applications
 ```
 
 ---
@@ -199,42 +159,41 @@ Full-Stack AI Products
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Languages"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react" alt="Frontend"/>
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend"/>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgresql,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,postgresql,mysql,redis" alt="Databases"/>
 </p>
 
-### DevOps & Tools
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" alt="Tools"/>
 </p>
 
 ### AI & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/LLM%20Applications-6E40C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Automation-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-6E40C9?style=for-the-badge" alt="LLM Applications"/>
+  <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge" alt="Groq"/>
 </p>
 
 ---
@@ -244,13 +203,14 @@ Full-Stack AI Products
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ayyanxdev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="Ayyan's GitHub Statistics"
     height="180"
-    alt="GitHub Statistics"
   />
+  &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanxdev&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Ayyan's Top Languages"
     height="180"
-    alt="Top Languages"
   />
 </p>
 
@@ -261,70 +221,85 @@ Full-Stack AI Products
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanxdev&theme=tokyo-night&hide_border=true&area=true"
+    alt="Ayyan's GitHub Contribution Activity Graph"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
   />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ayyanxdev&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
+    alt="Ayyan's GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-# 📌 GitHub Profile Overview
+# 📌 GitHub Profile Summary
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayyanxdev&theme=tokyonight"
+    alt="Ayyan's GitHub Profile Summary"
     width="100%"
-    alt="GitHub Profile Details"
   />
 </p>
 
 ---
 
-# 💼 Work With Me
+# 💼 Available for Freelance Projects
 
-I'm open to building practical solutions for businesses and individuals, especially around:
+I’m interested in helping businesses and individuals build:
 
-`AI Automation` • `AI Chatbots` • `AI Voice Agents` • `WhatsApp Automation` • `Web Scraping` • `Python` • `FastAPI` • `Full-Stack Development`
+**AI Automation • AI Chatbots • AI Voice Agents • WhatsApp Automation • Web Scrapers • Python Applications • FastAPI APIs • Full-Stack Applications**
 
 <p align="center">
   <a href="https://www.fiverr.com/s/emRjyDg">
-    <img src="https://img.shields.io/badge/🟢%20Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge" alt="Hire Me on Fiverr"/>
+    <img
+      src="https://img.shields.io/badge/🟢%20Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge"
+      alt="Hire me on Fiverr"
+    />
   </a>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/syed-ayyan-haider">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:ayyankazmi622@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
   <a href="https://www.fiverr.com/s/emRjyDg">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+    <img
+      src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
+      alt="Fiverr"
+    />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>🚀 Learning. Building. Automating.</strong>
+  <strong>🚀 Learn → Build → Automate → Improve</strong>
 </p>
 
 <p align="center">
-  <i>Building useful software one project at a time.</i>
+  <i>Building practical software while growing into a strong AI and full-stack engineer.</i>
 </p>
+
